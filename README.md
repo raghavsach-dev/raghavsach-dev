@@ -37,12 +37,6 @@ I am proficient in web development technologies including HTML, CSS, JavaScript,
 - **LinkedIn:** [linkedin.com/in/raghavsach-dev](https://www.linkedin.com/in/raghavsach-dev)
 - **GitHub:** [github.com/raghavsach-dev](https://github.com/raghavsach-dev)
 
-## 🔧 Tools & Technologies
-
-- **Code Editors:** VS Code, Sublime Text
-- **Version Control:** Git, GitHub
-- **Design Tools:** Figma, Adobe XD
-
 ## 🎯 My Goals
 
 I aim to continuously improve my technical skills, contribute to meaningful projects, and grow as a web developer. I am excited about the opportunities this internship program presents for professional development and learning from industry experts.

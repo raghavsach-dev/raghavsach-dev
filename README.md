@@ -182,7 +182,7 @@ Beyond coding, I'm constantly exploring emerging technologies in **Artificial In
 | Modern restaurant experience designed around premium visuals, online ordering and brand identity. | A living portfolio showcasing projects, experiments and engineering work with strong focus on performance and SEO. |
 | **Highlights** · 🍕 Restaurant Website · 🛒 Online Ordering · ✨ Premium UI · 📱 Responsive Design | **Highlights** · 📂 Case Studies · 🚀 Optimized Performance · 🔍 SEO · 📱 Responsive |
 | **Tech** · `Next.js` `Tailwind CSS` | **Tech** · `Next.js` |
-| [![Visit Website](https://img.shields.io/badge/Visit_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://forkups.vercel.app) | [![View Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://raghavsachdev.vercel.app) |
+| [![Visit Website](https://img.shields.io/badge/Visit_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://forkups.vercel.app) | [![View Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://raghavsachdev.in) |
 
 </div>
 
